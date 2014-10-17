@@ -1,13 +1,18 @@
 
 
 
-/*Elohe Yonas CSC200
+/*Elohe Yonas CSC200 
+ * date: 9/24/2014
+ * purpose: to create a program that gives the sum and average of 5 numbers you type
 
  * create variables for the 5 numbers
+ * use keyboard scanner
  * give functions to the variable
- *  
  * prompt user for 5 numbers;
+ * read variables for the 5 numbers
+ * read sum as adding all 5 typed integers
  * printout sum 
+ * read average as dividing sum by 5
  * printout average
  * 
  * 
